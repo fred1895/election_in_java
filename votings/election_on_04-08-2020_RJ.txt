@@ -1,0 +1,32 @@
+Candidato: Alair Corrêa, PP, 11200, RJ obeteve 3 votos
+Candidato: Alana Passos, PSL, 17120, RJ obeteve 2 votos
+Candidato: Adelson Guedes, PT, 13011, RJ obeteve 1 votos
+Candidato: Claudia Cottas, PSC, 20100, RJ obeteve 1 votos
+Candidato: MM, PMDB, 15500, RJ obeteve 0 votos
+Candidato: Abraão Da Melgil, PODE, 19770, RJ obeteve 0 votos
+Candidato: Carlos Waldomiro, PPL, 54217, RJ obeteve 0 votos
+Candidato: Carol Barbosa, PHS, 31902, RJ obeteve 0 votos
+Candidato: David Marques, PSDB, 45458, RJ obeteve 0 votos
+Candidato: David Marques, PSDB, 4545, RJ obeteve 3 votos
+Candidato: Carol Barbosa, PHS, 3190, RJ obeteve 2 votos
+Candidato: Claudia Cottas, PSC, 2010, RJ obeteve 2 votos
+Candidato: Alana Passos, PSL, 1712, RJ obeteve 1 votos
+Candidato: Corrêa, PP, 1120, RJ obeteve 0 votos
+Candidato: MM, PMDB, 1500, RJ obeteve 0 votos
+Candidato: Abraão Da Melgil, PODE, 1977, RJ obeteve 0 votos
+Candidato: Adelson Guedes, PT, 1301, RJ obeteve 0 votos
+Candidato: Carlos Waldomiro, PPL, 5421, RJ obeteve 0 votos
+Candidato: Cesar Maia, DEM, 25, RJ obeteve 2 votos
+Candidato: Arolde de Oliveira, PSL, 17, RJ obeteve 2 votos
+Candidato: Chico Alencar, PSol, 50, RJ obeteve 1 votos
+Candidato: Lindbergh Farias, PT, 13, RJ obeteve 1 votos
+Candidato: WW, PSC, 20, RJ obeteve 3 votos
+Candidato: MOTTA, PSol, 50, RJ obeteve 2 votos
+Candidato: MARCIA TIBURI, PT, 13, RJ obeteve 2 votos
+Candidato: EDUARDO PAES, DEM, 25, RJ obeteve 0 votos
+Candidato: HADDAD, PT, 13 obeteve 3 votos
+Candidato: BOLSONARO, PSL, 17 obeteve 3 votos
+Candidato: ALCKMIN, PSBD, 45 obeteve 1 votos
+Candidato: CIRO GOMES, PDT, 12 obeteve 1 votos
+Candidato: PASTOR EVERALDO, PSC, 20 obeteve 0 votos
+Candidato: BOULOS, PSOL, 50 obeteve 0 votos
